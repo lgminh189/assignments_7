@@ -1,0 +1,82 @@
+[
+  {
+    "start": 1793937964.231053,
+    "command": "đi đến phòng học",
+    "route": [
+      "A"
+    ],
+    "end": 1793938004.3943589,
+    "state": "SUCCEEDED",
+    "duration": 40.16330575942993
+  },
+  {
+    "start": 1793938045.630533,
+    "command": "đi đến phòng thí nghiệm",
+    "route": [
+      "B"
+    ],
+    "end": 1793938224.894424,
+    "state": "SUCCEEDED",
+    "duration": 179.2638909816742
+  },
+  {
+    "start": 1793938241.2298505,
+    "command": "đi đến hành lang",
+    "route": [
+      "C"
+    ],
+    "end": 1793938356.0543408,
+    "state": "STOPPED",
+    "duration": 114.8244903087616
+  },
+  {
+    "start": 1793938382.9300802,
+    "command": "đi đến hành lang",
+    "route": [
+      "C"
+    ],
+    "end": 1793938401.3546467,
+    "state": "STOPPED",
+    "duration": 18.424566507339478
+  },
+  {
+    "start": 1793938409.0287273,
+    "command": "đi đến phòng thí nghiệm",
+    "route": [
+      "B"
+    ],
+    "end": 1793938539.492888,
+    "state": "SUCCEEDED",
+    "duration": 130.46416068077087
+  },
+  {
+    "start": 1793938572.4290571,
+    "command": "đi đến phòng học",
+    "route": [
+      "A"
+    ],
+    "end": 1793938671.8535883,
+    "state": "STOPPED",
+    "duration": 99.42453122138977
+  },
+  {
+    "start": 1793938677.8318973,
+    "command": "đi đến hành lang",
+    "route": [
+      "C"
+    ],
+    "end": 1793938759.9592314,
+    "state": "STOPPED",
+    "duration": 82.1273341178894
+  },
+  {
+    "start": 1793938765.4340227,
+    "command": "đi đến phòng thí nghiệm",
+    "route": [
+      "B"
+    ],
+    "end": 1793938934.794726,
+    "state": "SUCCEEDED",
+    "duration": 169.36070322990417
+  }
+]

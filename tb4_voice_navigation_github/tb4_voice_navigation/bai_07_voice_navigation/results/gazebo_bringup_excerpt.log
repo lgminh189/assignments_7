@@ -1,0 +1,6 @@
+Excerpt from headless navigation.launch.py run; not a full simulator log.
+[lifecycle_manager-48] [INFO] [1793935676.375694019] [lifecycle_manager_localization]: [34m[1mManaged nodes are active[0m[0m
+[motion_control-35] [INFO] [1793935690.600166821] [motion_control]: Received new undock goal
+[lifecycle_manager-61] [INFO] [1793935706.446475082] [lifecycle_manager_navigation]: [34m[1mManaged nodes are active[0m[0m
+[ros2-50] Goal finished with status: SUCCEEDED
+[bt_navigator-56] [INFO] [1793935855.061504041] [bt_navigator]: Goal succeeded

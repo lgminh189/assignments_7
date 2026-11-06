@@ -1,0 +1,647 @@
+[INFO] [1793937896.338177621] [voice_input]: Đang chờ subscriber /voice_nav/command ...
+[INFO] [1793937897.062095783] [voice_input]: Vosk sẵn sàng (grammar điều hướng), micro=pipewire, highpass=150 Hz; nói lệnh rồi ngừng nói
+[INFO] [1793937897.726648678] [voice_input]: AUDIO: Sau lọc -81.4 dBFS, clipping 0.0%
+[INFO] [1793937899.726696076] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793937901.826650399] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[WARN] [1793937903.126489574] [voice_input]: Không gửi lệnh, confidence thấp hoặc câu rỗng: 0.28 a
+[INFO] [1793937903.827376584] [voice_input]: AUDIO: Sau lọc -42.5 dBFS, clipping 0.0%
+[INFO] [1793937905.926546354] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793937907.926507886] [voice_input]: AUDIO: Sau lọc -41.6 dBFS, clipping 0.0%
+[INFO] [1793937910.027367698] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793937912.026494370] [voice_input]: AUDIO: Sau lọc -41.3 dBFS, clipping 0.0%
+[INFO] [1793937914.126572283] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793937916.126686243] [voice_input]: AUDIO: Sau lọc -38.7 dBFS, clipping 0.0%
+[INFO] [1793937918.226529249] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[WARN] [1793937918.326524374] [voice_input]: Không gửi lệnh, confidence thấp hoặc câu rỗng: 0.56 hai
+[INFO] [1793937920.226422625] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793937921.526555555] [voice_input]: PARTIAL: c
+[INFO] [1793937921.826559414] [voice_input]: PARTIAL: học
+[INFO] [1793937922.026526745] [voice_input]: PARTIAL: học rồi đến
+[INFO] [1793937922.327059859] [voice_input]: AUDIO: Sau lọc -11.2 dBFS, clipping 0.0%
+[INFO] [1793937922.327711038] [voice_input]: PARTIAL: học rồi đi
+[INFO] [1793937922.527669868] [voice_input]: PARTIAL: khu vực c
+[INFO] [1793937922.828110410] [voice_input]: PARTIAL: khu vực c nghiệm
+[WARN] [1793937925.727203447] [voice_input]: Không gửi lệnh, confidence thấp hoặc câu rỗng: 0.51 học rồi đi vực c nghiệm
+[INFO] [1793937925.728550885] [voice_input]: AUDIO: Sau lọc -38.7 dBFS, clipping 0.0%
+[INFO] [1793937927.726843226] [voice_input]: AUDIO: Sau lọc -33.7 dBFS, clipping 0.0%
+[INFO] [1793937929.826716741] [voice_input]: AUDIO: Sau lọc -37.2 dBFS, clipping 0.0%
+[INFO] [1793937931.826656830] [voice_input]: AUDIO: Sau lọc -36.2 dBFS, clipping 0.0%
+[INFO] [1793937933.926510026] [voice_input]: AUDIO: Sau lọc -36.6 dBFS, clipping 0.0%
+[INFO] [1793937935.926832189] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793937938.026538586] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793937940.026367144] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793937942.126684170] [voice_input]: AUDIO: Sau lọc -41.9 dBFS, clipping 0.0%
+[INFO] [1793937943.926851164] [voice_input]: PARTIAL: nghiệm
+[INFO] [1793937944.127101593] [voice_input]: AUDIO: Sau lọc -16.2 dBFS, clipping 0.1%
+[INFO] [1793937944.127953638] [voice_input]: PARTIAL: nghiệm đến
+[INFO] [1793937944.426892448] [voice_input]: PARTIAL: nghiệm đến vùng
+[INFO] [1793937944.626954687] [voice_input]: PARTIAL: nghiệm đến phòng học
+[INFO] [1793937945.426760218] [voice_input]: ASR (0.75): nghiệm đến phòng học
+[INFO] [1793937946.226459086] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793937948.226425984] [voice_input]: AUDIO: Sau lọc -41.9 dBFS, clipping 0.0%
+[INFO] [1793937950.226946940] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793937952.326718257] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793937954.326975518] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793937956.426658297] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793937958.426709580] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793937960.526325493] [voice_input]: AUDIO: Sau lọc -38.5 dBFS, clipping 0.0%
+[INFO] [1793937962.527004960] [voice_input]: AUDIO: Sau lọc -14.8 dBFS, clipping 0.0%
+[INFO] [1793937962.926666232] [voice_input]: PARTIAL: đi đến
+[INFO] [1793937963.426753090] [voice_input]: PARTIAL: đi đến phòng
+[INFO] [1793937963.427152694] [voice_input]: PARTIAL: đi đến phòng học
+[INFO] [1793937964.226818499] [voice_input]: ASR (0.99): đi đến phòng học
+[INFO] [1793937964.626512269] [voice_input]: AUDIO: Sau lọc -38.1 dBFS, clipping 0.0%
+[INFO] [1793937966.626891140] [voice_input]: AUDIO: Sau lọc -37.8 dBFS, clipping 0.0%
+[INFO] [1793937968.727039215] [voice_input]: AUDIO: Sau lọc -35.0 dBFS, clipping 0.0%
+[INFO] [1793937970.726388109] [voice_input]: AUDIO: Sau lọc -38.1 dBFS, clipping 0.0%
+[INFO] [1793937972.826674525] [voice_input]: AUDIO: Sau lọc -36.1 dBFS, clipping 0.0%
+[INFO] [1793937974.826988467] [voice_input]: AUDIO: Sau lọc -35.3 dBFS, clipping 0.0%
+[INFO] [1793937976.926839285] [voice_input]: AUDIO: Sau lọc -37.8 dBFS, clipping 0.0%
+[INFO] [1793937978.926813190] [voice_input]: AUDIO: Sau lọc -35.0 dBFS, clipping 0.0%
+[INFO] [1793937981.026762157] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793937983.026459257] [voice_input]: AUDIO: Sau lọc -38.8 dBFS, clipping 0.0%
+[INFO] [1793937985.126447911] [voice_input]: AUDIO: Sau lọc -38.7 dBFS, clipping 0.0%
+[INFO] [1793937987.127626857] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793937989.227008753] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793937991.226912872] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793937993.326582484] [voice_input]: AUDIO: Sau lọc -37.4 dBFS, clipping 0.0%
+[INFO] [1793937995.327291789] [voice_input]: AUDIO: Sau lọc -36.7 dBFS, clipping 0.0%
+[INFO] [1793937997.426921130] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[INFO] [1793937999.426509691] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793938001.426619618] [voice_input]: AUDIO: Sau lọc -33.3 dBFS, clipping 0.0%
+[INFO] [1793938003.526493993] [voice_input]: AUDIO: Sau lọc -36.3 dBFS, clipping 0.0%
+[INFO] [1793938005.526504503] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938007.626709115] [voice_input]: AUDIO: Sau lọc -38.6 dBFS, clipping 0.0%
+[INFO] [1793938009.626709864] [voice_input]: AUDIO: Sau lọc -41.1 dBFS, clipping 0.0%
+[INFO] [1793938011.726459864] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938013.026520461] [voice_input]: PARTIAL: đi
+[INFO] [1793938013.226670036] [voice_input]: PARTIAL: đi đi
+[INFO] [1793938013.526501202] [voice_input]: PARTIAL: đi đi nghiệm
+[INFO] [1793938013.726487263] [voice_input]: AUDIO: Sau lọc -14.5 dBFS, clipping 0.0%
+[INFO] [1793938013.726776411] [voice_input]: PARTIAL: đi đi nghiệm vùng
+[INFO] [1793938014.026665109] [voice_input]: PARTIAL: đi đi nghiệm phòng
+[INFO] [1793938014.326837671] [voice_input]: PARTIAL: đi đi nghiệm phòng thí nghiệm
+[WARN] [1793938014.927090510] [voice_input]: Không gửi lệnh, confidence thấp hoặc câu rỗng: 0.56 đi đi nghiệm phòng di nghiệm
+[INFO] [1793938015.826707922] [voice_input]: AUDIO: Sau lọc -41.6 dBFS, clipping 0.0%
+[INFO] [1793938017.826702666] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793938019.926807724] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938021.926444644] [voice_input]: AUDIO: Sau lọc -35.2 dBFS, clipping 0.0%
+[INFO] [1793938023.126582306] [voice_input]: PARTIAL: di
+[INFO] [1793938023.326631745] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938023.526862811] [voice_input]: PARTIAL: đi đến phòng
+[INFO] [1793938023.727005607] [voice_input]: PARTIAL: đi đến vùng
+[INFO] [1793938024.026482503] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[WARN] [1793938024.826603224] [voice_input]: Không gửi lệnh, confidence thấp hoặc câu rỗng: 0.64 đi đến vùng
+[INFO] [1793938026.026709412] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938028.126488507] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793938030.126920053] [voice_input]: AUDIO: Sau lọc -37.7 dBFS, clipping 0.0%
+[INFO] [1793938032.226469204] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938034.226866259] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938036.326938608] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793938038.326718080] [voice_input]: AUDIO: Sau lọc -43.0 dBFS, clipping 0.0%
+[INFO] [1793938040.426731430] [voice_input]: AUDIO: Sau lọc -41.6 dBFS, clipping 0.0%
+[INFO] [1793938042.426783657] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938043.726492801] [voice_input]: PARTIAL: nghiệm
+[INFO] [1793938044.026612230] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938044.226793919] [voice_input]: PARTIAL: đi đến phòng
+[INFO] [1793938044.527070330] [voice_input]: AUDIO: Sau lọc -13.3 dBFS, clipping 0.2%
+[INFO] [1793938044.926498009] [voice_input]: PARTIAL: đi đến phòng thí nghiệm
+[INFO] [1793938045.626626487] [voice_input]: ASR (0.87): đi đến phòng thí nghiệm
+[INFO] [1793938046.526461104] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938048.626898085] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938050.626807244] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793938052.626945371] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938054.726504798] [voice_input]: AUDIO: Sau lọc -41.8 dBFS, clipping 0.0%
+[INFO] [1793938056.726663973] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938058.826561807] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938060.826662711] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938062.926913599] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938064.926668103] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938067.026709077] [voice_input]: AUDIO: Sau lọc -41.9 dBFS, clipping 0.0%
+[INFO] [1793938069.026914198] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938071.127490289] [voice_input]: AUDIO: Sau lọc -35.4 dBFS, clipping 0.0%
+[INFO] [1793938073.126499503] [voice_input]: AUDIO: Sau lọc -35.1 dBFS, clipping 0.0%
+[INFO] [1793938075.226878634] [voice_input]: AUDIO: Sau lọc -36.6 dBFS, clipping 0.0%
+[INFO] [1793938077.226681246] [voice_input]: AUDIO: Sau lọc -36.4 dBFS, clipping 0.0%
+[INFO] [1793938079.326573875] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938081.326492521] [voice_input]: AUDIO: Sau lọc -37.6 dBFS, clipping 0.0%
+[INFO] [1793938083.427626722] [voice_input]: AUDIO: Sau lọc -38.6 dBFS, clipping 0.0%
+[INFO] [1793938085.426880493] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938087.526478434] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938089.526932392] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938091.626723111] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938093.626713699] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938095.727649450] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793938097.727120988] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938099.827040278] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938101.826789491] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793938103.926601779] [voice_input]: AUDIO: Sau lọc -41.1 dBFS, clipping 0.0%
+[INFO] [1793938105.926449763] [voice_input]: AUDIO: Sau lọc -36.2 dBFS, clipping 0.0%
+[INFO] [1793938107.926400767] [voice_input]: AUDIO: Sau lọc -38.1 dBFS, clipping 0.0%
+[INFO] [1793938110.026651720] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938112.027110279] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938114.127010263] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938116.126894417] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938118.226758224] [voice_input]: AUDIO: Sau lọc -41.3 dBFS, clipping 0.0%
+[INFO] [1793938120.226894820] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938122.326398036] [voice_input]: AUDIO: Sau lọc -41.6 dBFS, clipping 0.0%
+[INFO] [1793938124.326428784] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938126.426544779] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938128.426895059] [voice_input]: AUDIO: Sau lọc -41.6 dBFS, clipping 0.0%
+[INFO] [1793938130.527137600] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938132.526795562] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938134.626512551] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938136.626636685] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938138.726501573] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938140.726904419] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938142.826964031] [voice_input]: AUDIO: Sau lọc -37.9 dBFS, clipping 0.0%
+[INFO] [1793938144.826674455] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793938146.926771761] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938148.926917006] [voice_input]: AUDIO: Sau lọc -41.6 dBFS, clipping 0.0%
+[INFO] [1793938151.026785400] [voice_input]: AUDIO: Sau lọc -41.7 dBFS, clipping 0.0%
+[INFO] [1793938153.026805698] [voice_input]: AUDIO: Sau lọc -42.0 dBFS, clipping 0.0%
+[INFO] [1793938155.126779567] [voice_input]: AUDIO: Sau lọc -41.9 dBFS, clipping 0.0%
+[INFO] [1793938157.126856370] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938159.126861222] [voice_input]: AUDIO: Sau lọc -36.8 dBFS, clipping 0.0%
+[INFO] [1793938161.226664915] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938163.227749509] [voice_input]: AUDIO: Sau lọc -35.0 dBFS, clipping 0.0%
+[INFO] [1793938165.326558698] [voice_input]: AUDIO: Sau lọc -35.0 dBFS, clipping 0.0%
+[INFO] [1793938167.328154771] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938169.426449838] [voice_input]: AUDIO: Sau lọc -42.6 dBFS, clipping 0.0%
+[INFO] [1793938171.426737119] [voice_input]: AUDIO: Sau lọc -42.1 dBFS, clipping 0.0%
+[INFO] [1793938173.527955436] [voice_input]: AUDIO: Sau lọc -42.7 dBFS, clipping 0.0%
+[INFO] [1793938175.526527475] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793938177.626898736] [voice_input]: AUDIO: Sau lọc -42.6 dBFS, clipping 0.0%
+[INFO] [1793938179.627306907] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938181.726928514] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938183.726561226] [voice_input]: AUDIO: Sau lọc -35.5 dBFS, clipping 0.0%
+[INFO] [1793938185.827287374] [voice_input]: AUDIO: Sau lọc -40.5 dBFS, clipping 0.0%
+[INFO] [1793938187.826607920] [voice_input]: AUDIO: Sau lọc -38.8 dBFS, clipping 0.0%
+[INFO] [1793938189.927294809] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938191.930520423] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938194.026513927] [voice_input]: AUDIO: Sau lọc -39.2 dBFS, clipping 0.0%
+[INFO] [1793938196.026551135] [voice_input]: AUDIO: Sau lọc -37.8 dBFS, clipping 0.0%
+[INFO] [1793938198.126783261] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793938200.127362852] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938202.226850243] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938204.226685672] [voice_input]: AUDIO: Sau lọc -37.8 dBFS, clipping 0.0%
+[INFO] [1793938206.326518322] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938208.326929831] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938210.326563561] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938212.426574363] [voice_input]: AUDIO: Sau lọc -41.8 dBFS, clipping 0.0%
+[INFO] [1793938214.426553474] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938216.526534828] [voice_input]: AUDIO: Sau lọc -37.6 dBFS, clipping 0.0%
+[INFO] [1793938218.526811282] [voice_input]: AUDIO: Sau lọc -36.0 dBFS, clipping 0.0%
+[INFO] [1793938220.626465109] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793938222.626555100] [voice_input]: AUDIO: Sau lọc -38.6 dBFS, clipping 0.0%
+[INFO] [1793938224.728016396] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938226.726983325] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938228.831072770] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793938230.826523462] [voice_input]: AUDIO: Sau lọc -41.7 dBFS, clipping 0.0%
+[INFO] [1793938232.926473225] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793938234.926506557] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938237.026524177] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938239.026772705] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793938239.829486090] [voice_input]: PARTIAL: đi
+[INFO] [1793938240.126814064] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938240.326853466] [voice_input]: PARTIAL: đi đến hành
+[INFO] [1793938240.627384315] [voice_input]: PARTIAL: đi đến hành lang
+[INFO] [1793938241.126901157] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[INFO] [1793938241.226973995] [voice_input]: ASR (1.00): đi đến hành lang
+[INFO] [1793938243.126735819] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938245.226607082] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938247.226783619] [voice_input]: AUDIO: Sau lọc -41.1 dBFS, clipping 0.0%
+[INFO] [1793938249.326779663] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938251.326851472] [voice_input]: AUDIO: Sau lọc -39.3 dBFS, clipping 0.0%
+[INFO] [1793938253.426636901] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938255.427344305] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[INFO] [1793938257.526895311] [voice_input]: AUDIO: Sau lọc -37.4 dBFS, clipping 0.0%
+[INFO] [1793938259.526797697] [voice_input]: AUDIO: Sau lọc -36.2 dBFS, clipping 0.0%
+[INFO] [1793938261.527000334] [voice_input]: AUDIO: Sau lọc -38.9 dBFS, clipping 0.0%
+[INFO] [1793938263.626501556] [voice_input]: AUDIO: Sau lọc -37.0 dBFS, clipping 0.0%
+[INFO] [1793938265.626620566] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938267.726520417] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938269.726768131] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938271.826629878] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938273.827054340] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938275.926916185] [voice_input]: AUDIO: Sau lọc -42.0 dBFS, clipping 0.0%
+[INFO] [1793938277.926565783] [voice_input]: AUDIO: Sau lọc -42.3 dBFS, clipping 0.0%
+[INFO] [1793938280.026985157] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938282.026831959] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938284.126493426] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938286.126814484] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938288.226793288] [voice_input]: AUDIO: Sau lọc -37.6 dBFS, clipping 0.0%
+[INFO] [1793938290.226453350] [voice_input]: AUDIO: Sau lọc -38.0 dBFS, clipping 0.0%
+[INFO] [1793938292.326562949] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938294.327246234] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938296.426744622] [voice_input]: AUDIO: Sau lọc -41.7 dBFS, clipping 0.0%
+[INFO] [1793938298.426457599] [voice_input]: AUDIO: Sau lọc -41.7 dBFS, clipping 0.0%
+[INFO] [1793938300.526781745] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938302.527106715] [voice_input]: AUDIO: Sau lọc -11.7 dBFS, clipping 0.0%
+[INFO] [1793938303.226531081] [voice_input]: PARTIAL: dừng lại
+[INFO] [1793938303.427282616] [voice_input]: PARTIAL: dừng c
+[INFO] [1793938303.926555458] [voice_input]: ASR (0.81): dừng c
+[INFO] [1793938304.626620094] [voice_input]: AUDIO: Sau lọc -42.2 dBFS, clipping 0.0%
+[INFO] [1793938306.626812701] [voice_input]: AUDIO: Sau lọc -41.3 dBFS, clipping 0.0%
+[INFO] [1793938308.726397271] [voice_input]: AUDIO: Sau lọc -41.5 dBFS, clipping 0.0%
+[INFO] [1793938310.726573691] [voice_input]: AUDIO: Sau lọc -42.5 dBFS, clipping 0.0%
+[INFO] [1793938312.727913840] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938314.826496495] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938316.828372136] [voice_input]: AUDIO: Sau lọc -30.1 dBFS, clipping 0.0%
+[INFO] [1793938318.926742136] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793938320.926512323] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938323.026539912] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938325.026686536] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938327.126740922] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938329.127267096] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938331.227380551] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938333.226775916] [voice_input]: AUDIO: Sau lọc -37.9 dBFS, clipping 0.0%
+[INFO] [1793938335.326584759] [voice_input]: AUDIO: Sau lọc -38.7 dBFS, clipping 0.0%
+[INFO] [1793938337.327085432] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793938339.426482481] [voice_input]: AUDIO: Sau lọc -32.0 dBFS, clipping 0.0%
+[INFO] [1793938341.426523316] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938343.526899845] [voice_input]: AUDIO: Sau lọc -37.7 dBFS, clipping 0.0%
+[INFO] [1793938345.526877112] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793938347.626767023] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793938349.626421444] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938351.727104830] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938353.726528303] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938355.326436634] [voice_input]: PARTIAL: dừng lại
+[INFO] [1793938355.827089464] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938356.027101155] [voice_input]: ASR (0.77): dừng lại
+[INFO] [1793938357.826816493] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938359.926671941] [voice_input]: AUDIO: Sau lọc -40.5 dBFS, clipping 0.0%
+[INFO] [1793938361.926620817] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[INFO] [1793938363.926914208] [voice_input]: AUDIO: Sau lọc -37.1 dBFS, clipping 0.0%
+[INFO] [1793938366.027034784] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938368.026730013] [voice_input]: AUDIO: Sau lọc -38.3 dBFS, clipping 0.0%
+[INFO] [1793938370.126544314] [voice_input]: AUDIO: Sau lọc -38.3 dBFS, clipping 0.0%
+[INFO] [1793938372.126602022] [voice_input]: AUDIO: Sau lọc -39.2 dBFS, clipping 0.0%
+[INFO] [1793938374.226647561] [voice_input]: AUDIO: Sau lọc -37.9 dBFS, clipping 0.0%
+[INFO] [1793938376.226835777] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793938378.326919255] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793938380.326382312] [voice_input]: AUDIO: Sau lọc -35.9 dBFS, clipping 0.0%
+[INFO] [1793938381.426736426] [voice_input]: PARTIAL: đi
+[INFO] [1793938381.626825788] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938381.926956338] [voice_input]: PARTIAL: đi đến hành
+[INFO] [1793938382.126714508] [voice_input]: PARTIAL: đi đến hành lang
+[INFO] [1793938382.426696641] [voice_input]: AUDIO: Sau lọc -38.8 dBFS, clipping 0.0%
+[INFO] [1793938382.926805744] [voice_input]: ASR (1.00): đi đến hành lang
+[INFO] [1793938384.426911478] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938386.527511641] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938388.526486493] [voice_input]: AUDIO: Sau lọc -42.0 dBFS, clipping 0.0%
+[INFO] [1793938390.626754692] [voice_input]: AUDIO: Sau lọc -43.3 dBFS, clipping 0.0%
+[INFO] [1793938392.626491183] [voice_input]: AUDIO: Sau lọc -42.4 dBFS, clipping 0.0%
+[INFO] [1793938394.728135539] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938396.726984262] [voice_input]: AUDIO: Sau lọc -41.9 dBFS, clipping 0.0%
+[INFO] [1793938398.826544351] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938400.726613853] [voice_input]: PARTIAL: dừng lại
+[INFO] [1793938400.826475940] [voice_input]: AUDIO: Sau lọc -39.2 dBFS, clipping 0.0%
+[INFO] [1793938401.326764107] [voice_input]: ASR (0.88): dừng lại
+[INFO] [1793938402.926505129] [voice_input]: AUDIO: Sau lọc -41.1 dBFS, clipping 0.0%
+[INFO] [1793938403.526538087] [voice_input]: PARTIAL: nghiệm
+[INFO] [1793938403.827038296] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938404.026495266] [voice_input]: PARTIAL: đi đi
+[INFO] [1793938404.326489652] [voice_input]: PARTIAL: đi đến khu vực
+[INFO] [1793938404.926761422] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[WARN] [1793938405.226596515] [voice_input]: Không gửi lệnh, confidence thấp hoặc câu rỗng: 0.44 đi đến khu vực dê
+[INFO] [1793938407.026827052] [voice_input]: AUDIO: Sau lọc -11.5 dBFS, clipping 0.0%
+[INFO] [1793938407.326796270] [voice_input]: PARTIAL: đi
+[INFO] [1793938407.526640606] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938407.727046557] [voice_input]: PARTIAL: đi đến phòng
+[INFO] [1793938408.026510993] [voice_input]: PARTIAL: đi đến phòng thí
+[INFO] [1793938408.226818174] [voice_input]: PARTIAL: đi đến phòng thí nghiệm
+[INFO] [1793938409.026544889] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938409.026973822] [voice_input]: ASR (0.94): đi đến phòng thí nghiệm
+[INFO] [1793938411.126730666] [voice_input]: AUDIO: Sau lọc -42.7 dBFS, clipping 0.0%
+[INFO] [1793938413.127376360] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938415.126661052] [voice_input]: AUDIO: Sau lọc -42.2 dBFS, clipping 0.0%
+[INFO] [1793938417.226681170] [voice_input]: AUDIO: Sau lọc -42.0 dBFS, clipping 0.0%
+[INFO] [1793938419.226744987] [voice_input]: AUDIO: Sau lọc -42.0 dBFS, clipping 0.0%
+[INFO] [1793938421.326876503] [voice_input]: AUDIO: Sau lọc -35.4 dBFS, clipping 0.0%
+[INFO] [1793938423.326495774] [voice_input]: AUDIO: Sau lọc -42.5 dBFS, clipping 0.0%
+[INFO] [1793938425.426494796] [voice_input]: AUDIO: Sau lọc -43.0 dBFS, clipping 0.0%
+[INFO] [1793938427.426472691] [voice_input]: AUDIO: Sau lọc -41.8 dBFS, clipping 0.0%
+[INFO] [1793938429.526478686] [voice_input]: AUDIO: Sau lọc -37.3 dBFS, clipping 0.0%
+[INFO] [1793938431.527198334] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938433.627116139] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938435.626580491] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938437.728242299] [voice_input]: AUDIO: Sau lọc -37.3 dBFS, clipping 0.0%
+[INFO] [1793938439.726665899] [voice_input]: AUDIO: Sau lọc -36.1 dBFS, clipping 0.0%
+[INFO] [1793938441.826570950] [voice_input]: AUDIO: Sau lọc -30.1 dBFS, clipping 0.0%
+[INFO] [1793938443.826739050] [voice_input]: AUDIO: Sau lọc -31.9 dBFS, clipping 0.0%
+[INFO] [1793938445.926445834] [voice_input]: AUDIO: Sau lọc -30.9 dBFS, clipping 0.0%
+[INFO] [1793938447.926804197] [voice_input]: AUDIO: Sau lọc -31.6 dBFS, clipping 0.0%
+[INFO] [1793938450.026507076] [voice_input]: AUDIO: Sau lọc -33.4 dBFS, clipping 0.0%
+[INFO] [1793938452.026705350] [voice_input]: AUDIO: Sau lọc -32.5 dBFS, clipping 0.0%
+[INFO] [1793938454.126486976] [voice_input]: AUDIO: Sau lọc -33.3 dBFS, clipping 0.0%
+[INFO] [1793938456.126575534] [voice_input]: AUDIO: Sau lọc -38.5 dBFS, clipping 0.0%
+[INFO] [1793938458.226489463] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793938460.227853466] [voice_input]: AUDIO: Sau lọc -33.5 dBFS, clipping 0.0%
+[INFO] [1793938462.326518808] [voice_input]: AUDIO: Sau lọc -32.9 dBFS, clipping 0.0%
+[INFO] [1793938464.326807456] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938466.328686114] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938468.426707687] [voice_input]: AUDIO: Sau lọc -31.3 dBFS, clipping 0.0%
+[INFO] [1793938470.426620813] [voice_input]: AUDIO: Sau lọc -34.2 dBFS, clipping 0.0%
+[INFO] [1793938472.526844105] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793938474.526482920] [voice_input]: AUDIO: Sau lọc -35.4 dBFS, clipping 0.0%
+[INFO] [1793938476.626589295] [voice_input]: AUDIO: Sau lọc -33.1 dBFS, clipping 0.0%
+[INFO] [1793938478.626804300] [voice_input]: AUDIO: Sau lọc -37.0 dBFS, clipping 0.0%
+[INFO] [1793938480.726391776] [voice_input]: AUDIO: Sau lọc -34.8 dBFS, clipping 0.0%
+[INFO] [1793938482.726805507] [voice_input]: AUDIO: Sau lọc -34.2 dBFS, clipping 0.0%
+[INFO] [1793938484.826475803] [voice_input]: AUDIO: Sau lọc -38.6 dBFS, clipping 0.0%
+[INFO] [1793938486.826829493] [voice_input]: AUDIO: Sau lọc -39.3 dBFS, clipping 0.0%
+[INFO] [1793938488.928182188] [voice_input]: AUDIO: Sau lọc -30.8 dBFS, clipping 0.0%
+[INFO] [1793938490.927256713] [voice_input]: AUDIO: Sau lọc -30.6 dBFS, clipping 0.0%
+[INFO] [1793938493.027435775] [voice_input]: AUDIO: Sau lọc -28.9 dBFS, clipping 0.0%
+[INFO] [1793938495.027336205] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938497.126478769] [voice_input]: AUDIO: Sau lọc -34.7 dBFS, clipping 0.0%
+[INFO] [1793938499.126980229] [voice_input]: AUDIO: Sau lọc -41.3 dBFS, clipping 0.0%
+[INFO] [1793938501.226446975] [voice_input]: AUDIO: Sau lọc -42.1 dBFS, clipping 0.0%
+[INFO] [1793938503.226541479] [voice_input]: AUDIO: Sau lọc -33.7 dBFS, clipping 0.0%
+[INFO] [1793938505.326660835] [voice_input]: AUDIO: Sau lọc -31.0 dBFS, clipping 0.0%
+[INFO] [1793938507.326797148] [voice_input]: AUDIO: Sau lọc -31.0 dBFS, clipping 0.0%
+[INFO] [1793938509.426525729] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938511.426601462] [voice_input]: AUDIO: Sau lọc -36.0 dBFS, clipping 0.0%
+[INFO] [1793938513.526512416] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938515.527293656] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938517.526812645] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938519.627399334] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938521.626817740] [voice_input]: AUDIO: Sau lọc -36.6 dBFS, clipping 0.0%
+[INFO] [1793938523.726687173] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938525.727710039] [voice_input]: AUDIO: Sau lọc -42.3 dBFS, clipping 0.0%
+[INFO] [1793938527.826638911] [voice_input]: AUDIO: Sau lọc -41.1 dBFS, clipping 0.0%
+[INFO] [1793938529.826848861] [voice_input]: AUDIO: Sau lọc -41.7 dBFS, clipping 0.0%
+[INFO] [1793938531.926662704] [voice_input]: AUDIO: Sau lọc -42.5 dBFS, clipping 0.0%
+[INFO] [1793938533.926825593] [voice_input]: AUDIO: Sau lọc -42.4 dBFS, clipping 0.0%
+[INFO] [1793938536.026800465] [voice_input]: AUDIO: Sau lọc -42.1 dBFS, clipping 0.0%
+[INFO] [1793938538.026496645] [voice_input]: AUDIO: Sau lọc -42.9 dBFS, clipping 0.0%
+[INFO] [1793938540.126451168] [voice_input]: AUDIO: Sau lọc -42.8 dBFS, clipping 0.0%
+[INFO] [1793938542.127300178] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938544.228001389] [voice_input]: AUDIO: Sau lọc -42.1 dBFS, clipping 0.0%
+[INFO] [1793938546.226556458] [voice_input]: AUDIO: Sau lọc -41.7 dBFS, clipping 0.0%
+[INFO] [1793938548.326506573] [voice_input]: AUDIO: Sau lọc -40.5 dBFS, clipping 0.0%
+[INFO] [1793938550.326930910] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938552.427015799] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938554.426833964] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[INFO] [1793938556.526434458] [voice_input]: AUDIO: Sau lọc -42.0 dBFS, clipping 0.0%
+[INFO] [1793938558.526738627] [voice_input]: AUDIO: Sau lọc -42.1 dBFS, clipping 0.0%
+[INFO] [1793938560.626539246] [voice_input]: AUDIO: Sau lọc -42.3 dBFS, clipping 0.0%
+[INFO] [1793938562.627004068] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938564.726655065] [voice_input]: AUDIO: Sau lọc -38.8 dBFS, clipping 0.0%
+[INFO] [1793938566.726440062] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793938568.726625436] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938570.826434278] [voice_input]: AUDIO: Sau lọc -12.5 dBFS, clipping 0.0%
+[INFO] [1793938571.126548851] [voice_input]: PARTIAL: đi
+[INFO] [1793938571.326635073] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938571.427035694] [voice_input]: PARTIAL: đi đến qua
+[INFO] [1793938571.626555259] [voice_input]: PARTIAL: đi đến phòng học
+[INFO] [1793938572.426811004] [voice_input]: ASR (1.00): đi đến phòng học
+[INFO] [1793938572.827623288] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938574.927092633] [voice_input]: AUDIO: Sau lọc -38.9 dBFS, clipping 0.0%
+[INFO] [1793938576.926820567] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938579.026922689] [voice_input]: AUDIO: Sau lọc -41.6 dBFS, clipping 0.0%
+[INFO] [1793938581.026554212] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938583.126525776] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938585.126752924] [voice_input]: AUDIO: Sau lọc -37.9 dBFS, clipping 0.0%
+[INFO] [1793938587.228604409] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938589.226646600] [voice_input]: AUDIO: Sau lọc -36.1 dBFS, clipping 0.0%
+[INFO] [1793938591.326943136] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938593.326775861] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938595.427196420] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938597.426553254] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938599.526683691] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938601.526849768] [voice_input]: AUDIO: Sau lọc -36.3 dBFS, clipping 0.0%
+[INFO] [1793938603.627458662] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938605.626820053] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938607.726723220] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938609.726501254] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938611.826835755] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938613.827152041] [voice_input]: AUDIO: Sau lọc -37.3 dBFS, clipping 0.0%
+[INFO] [1793938615.826507965] [voice_input]: AUDIO: Sau lọc -37.4 dBFS, clipping 0.0%
+[INFO] [1793938617.929065193] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793938619.926757763] [voice_input]: AUDIO: Sau lọc -41.1 dBFS, clipping 0.0%
+[INFO] [1793938622.027443203] [voice_input]: AUDIO: Sau lọc -36.9 dBFS, clipping 0.0%
+[INFO] [1793938624.026784850] [voice_input]: AUDIO: Sau lọc -35.0 dBFS, clipping 0.0%
+[INFO] [1793938626.127285499] [voice_input]: AUDIO: Sau lọc -36.0 dBFS, clipping 0.0%
+[INFO] [1793938628.129346827] [voice_input]: AUDIO: Sau lọc -37.2 dBFS, clipping 0.0%
+[INFO] [1793938630.227346130] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938632.226615462] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938634.326837041] [voice_input]: AUDIO: Sau lọc -42.1 dBFS, clipping 0.0%
+[INFO] [1793938636.326771897] [voice_input]: AUDIO: Sau lọc -41.7 dBFS, clipping 0.0%
+[INFO] [1793938638.426707068] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938640.430834135] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938642.526837383] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938644.527004335] [voice_input]: AUDIO: Sau lọc -35.7 dBFS, clipping 0.0%
+[INFO] [1793938646.626527272] [voice_input]: AUDIO: Sau lọc -36.4 dBFS, clipping 0.0%
+[INFO] [1793938648.626944997] [voice_input]: AUDIO: Sau lọc -38.3 dBFS, clipping 0.0%
+[INFO] [1793938650.726797287] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793938652.726552984] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938654.826666956] [voice_input]: AUDIO: Sau lọc -36.2 dBFS, clipping 0.0%
+[INFO] [1793938656.826867312] [voice_input]: AUDIO: Sau lọc -38.7 dBFS, clipping 0.0%
+[INFO] [1793938658.926576677] [voice_input]: AUDIO: Sau lọc -39.2 dBFS, clipping 0.0%
+[INFO] [1793938660.927014788] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938662.927121399] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938665.031127095] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938667.026508516] [voice_input]: AUDIO: Sau lọc -41.2 dBFS, clipping 0.0%
+[INFO] [1793938669.126907396] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938671.126701141] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938671.326814389] [voice_input]: PARTIAL: dừng
+[INFO] [1793938671.826533052] [voice_input]: ASR (0.98): dừng
+[INFO] [1793938673.226709155] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938675.226713437] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938676.427096222] [voice_input]: PARTIAL: đi
+[INFO] [1793938676.627696886] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938676.826822401] [voice_input]: PARTIAL: đi đến hành
+[INFO] [1793938677.026908310] [voice_input]: PARTIAL: đi đến hành lang
+[INFO] [1793938677.326766088] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938677.826760302] [voice_input]: ASR (1.00): đi đến hành lang
+[INFO] [1793938679.326563259] [voice_input]: AUDIO: Sau lọc -39.2 dBFS, clipping 0.0%
+[INFO] [1793938681.427353723] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938683.426720854] [voice_input]: AUDIO: Sau lọc -39.2 dBFS, clipping 0.0%
+[INFO] [1793938685.526823692] [voice_input]: AUDIO: Sau lọc -31.5 dBFS, clipping 0.0%
+[INFO] [1793938687.526656833] [voice_input]: AUDIO: Sau lọc -35.9 dBFS, clipping 0.0%
+[INFO] [1793938689.626588570] [voice_input]: AUDIO: Sau lọc -34.1 dBFS, clipping 0.0%
+[INFO] [1793938691.626983501] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793938693.726611631] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793938695.726664307] [voice_input]: AUDIO: Sau lọc -37.4 dBFS, clipping 0.0%
+[INFO] [1793938697.826597723] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793938699.826490188] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938701.926834809] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793938703.927188747] [voice_input]: AUDIO: Sau lọc -36.7 dBFS, clipping 0.0%
+[INFO] [1793938706.026604865] [voice_input]: AUDIO: Sau lọc -33.9 dBFS, clipping 0.0%
+[INFO] [1793938708.026732506] [voice_input]: AUDIO: Sau lọc -38.5 dBFS, clipping 0.0%
+[INFO] [1793938710.027022797] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938712.129578833] [voice_input]: AUDIO: Sau lọc -38.9 dBFS, clipping 0.0%
+[INFO] [1793938714.127216202] [voice_input]: AUDIO: Sau lọc -37.8 dBFS, clipping 0.0%
+[INFO] [1793938716.227091187] [voice_input]: AUDIO: Sau lọc -39.3 dBFS, clipping 0.0%
+[INFO] [1793938718.227095167] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938720.326467753] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[INFO] [1793938722.327277586] [voice_input]: AUDIO: Sau lọc -40.5 dBFS, clipping 0.0%
+[INFO] [1793938724.426376400] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938726.426884117] [voice_input]: AUDIO: Sau lọc -38.6 dBFS, clipping 0.0%
+[INFO] [1793938728.526802572] [voice_input]: AUDIO: Sau lọc -36.6 dBFS, clipping 0.0%
+[INFO] [1793938730.529287115] [voice_input]: AUDIO: Sau lọc -38.0 dBFS, clipping 0.0%
+[INFO] [1793938732.626923768] [voice_input]: AUDIO: Sau lọc -39.6 dBFS, clipping 0.0%
+[INFO] [1793938734.626604511] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938736.726456440] [voice_input]: AUDIO: Sau lọc -38.6 dBFS, clipping 0.0%
+[INFO] [1793938738.727215328] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938740.827679480] [voice_input]: AUDIO: Sau lọc -41.0 dBFS, clipping 0.0%
+[INFO] [1793938742.826735386] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938744.927340431] [voice_input]: AUDIO: Sau lọc -38.9 dBFS, clipping 0.0%
+[INFO] [1793938746.927000360] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938749.026805752] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938751.026512461] [voice_input]: AUDIO: Sau lọc -39.7 dBFS, clipping 0.0%
+[INFO] [1793938753.126688293] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938755.126873859] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938757.127577578] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938758.829810700] [voice_input]: PARTIAL: di
+[INFO] [1793938759.127116646] [voice_input]: PARTIAL: dừng lại
+[INFO] [1793938759.226483595] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938759.926640682] [voice_input]: ASR (0.95): dừng lại
+[INFO] [1793938761.229512150] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938763.326659241] [voice_input]: AUDIO: Sau lọc -11.8 dBFS, clipping 0.0%
+[INFO] [1793938763.426548018] [voice_input]: PARTIAL: đi
+[INFO] [1793938763.826623565] [voice_input]: PARTIAL: đi đến
+[INFO] [1793938764.126780898] [voice_input]: PARTIAL: đi đến vùng
+[INFO] [1793938764.326650084] [voice_input]: PARTIAL: đi đến phòng
+[INFO] [1793938764.626778198] [voice_input]: PARTIAL: đi đến phòng thí nghiệm
+[INFO] [1793938765.326539067] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938765.427126079] [voice_input]: ASR (0.78): đi đến phòng thí nghiệm
+[INFO] [1793938767.426561644] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938769.427948998] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938771.526791374] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938773.526680142] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938775.626760606] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938777.627711344] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938779.726479945] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938781.727020439] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938783.826758733] [voice_input]: AUDIO: Sau lọc -17.8 dBFS, clipping 0.0%
+[INFO] [1793938785.827124960] [voice_input]: AUDIO: Sau lọc -35.1 dBFS, clipping 0.0%
+[INFO] [1793938787.926451269] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938789.926817806] [voice_input]: AUDIO: Sau lọc -38.1 dBFS, clipping 0.0%
+[INFO] [1793938792.027531428] [voice_input]: AUDIO: Sau lọc -30.5 dBFS, clipping 0.0%
+[INFO] [1793938794.027078866] [voice_input]: AUDIO: Sau lọc -37.9 dBFS, clipping 0.0%
+[INFO] [1793938796.127088403] [voice_input]: AUDIO: Sau lọc -34.8 dBFS, clipping 0.0%
+[INFO] [1793938798.126708622] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938800.226651832] [voice_input]: AUDIO: Sau lọc -37.8 dBFS, clipping 0.0%
+[INFO] [1793938802.226742662] [voice_input]: AUDIO: Sau lọc -38.8 dBFS, clipping 0.0%
+[INFO] [1793938804.326559376] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938806.326843312] [voice_input]: AUDIO: Sau lọc -40.0 dBFS, clipping 0.0%
+[INFO] [1793938808.327284398] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938810.427282116] [voice_input]: AUDIO: Sau lọc -38.1 dBFS, clipping 0.0%
+[INFO] [1793938812.428013662] [voice_input]: AUDIO: Sau lọc -32.8 dBFS, clipping 0.0%
+[INFO] [1793938814.526768434] [voice_input]: AUDIO: Sau lọc -30.8 dBFS, clipping 0.0%
+[INFO] [1793938816.526754365] [voice_input]: AUDIO: Sau lọc -31.9 dBFS, clipping 0.0%
+[INFO] [1793938818.626540649] [voice_input]: AUDIO: Sau lọc -25.7 dBFS, clipping 0.0%
+[INFO] [1793938820.626659738] [voice_input]: AUDIO: Sau lọc -35.2 dBFS, clipping 0.0%
+[INFO] [1793938822.727071125] [voice_input]: AUDIO: Sau lọc -34.1 dBFS, clipping 0.0%
+[INFO] [1793938824.726977931] [voice_input]: AUDIO: Sau lọc -33.1 dBFS, clipping 0.0%
+[INFO] [1793938826.826777969] [voice_input]: AUDIO: Sau lọc -34.3 dBFS, clipping 0.0%
+[INFO] [1793938828.826755305] [voice_input]: AUDIO: Sau lọc -36.0 dBFS, clipping 0.0%
+[INFO] [1793938830.927135709] [voice_input]: AUDIO: Sau lọc -39.9 dBFS, clipping 0.0%
+[INFO] [1793938832.926634308] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793938835.031313877] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938837.028434793] [voice_input]: AUDIO: Sau lọc -38.3 dBFS, clipping 0.0%
+[INFO] [1793938839.126990260] [voice_input]: AUDIO: Sau lọc -38.9 dBFS, clipping 0.0%
+[INFO] [1793938841.126700854] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938843.226827371] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938845.226925169] [voice_input]: AUDIO: Sau lọc -40.2 dBFS, clipping 0.0%
+[INFO] [1793938847.326720491] [voice_input]: AUDIO: Sau lọc -40.8 dBFS, clipping 0.0%
+[INFO] [1793938849.326398995] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938851.426757864] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938853.427462988] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938855.426778380] [voice_input]: AUDIO: Sau lọc -39.2 dBFS, clipping 0.0%
+[INFO] [1793938857.526956834] [voice_input]: AUDIO: Sau lọc -40.9 dBFS, clipping 0.0%
+[INFO] [1793938859.526756648] [voice_input]: AUDIO: Sau lọc -40.4 dBFS, clipping 0.0%
+[INFO] [1793938861.626879621] [voice_input]: AUDIO: Sau lọc -39.0 dBFS, clipping 0.0%
+[INFO] [1793938863.632480412] [voice_input]: AUDIO: Sau lọc -41.4 dBFS, clipping 0.0%
+[INFO] [1793938865.726795987] [voice_input]: AUDIO: Sau lọc -40.6 dBFS, clipping 0.0%
+[INFO] [1793938867.728208252] [voice_input]: AUDIO: Sau lọc -41.1 dBFS, clipping 0.0%
+[INFO] [1793938869.826759318] [voice_input]: AUDIO: Sau lọc -34.1 dBFS, clipping 0.0%
+[INFO] [1793938871.826754308] [voice_input]: AUDIO: Sau lọc -39.8 dBFS, clipping 0.0%
+[INFO] [1793938873.926488261] [voice_input]: AUDIO: Sau lọc -39.5 dBFS, clipping 0.0%
+[INFO] [1793938875.927031160] [voice_input]: AUDIO: Sau lọc -38.8 dBFS, clipping 0.0%
+[INFO] [1793938878.026604977] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938880.026564855] [voice_input]: AUDIO: Sau lọc -39.1 dBFS, clipping 0.0%
+[INFO] [1793938882.126993562] [voice_input]: AUDIO: Sau lọc -40.3 dBFS, clipping 0.0%
+[INFO] [1793938884.126911695] [voice_input]: AUDIO: Sau lọc -39.4 dBFS, clipping 0.0%
+[INFO] [1793938886.226801877] [voice_input]: AUDIO: Sau lọc -40.1 dBFS, clipping 0.0%
+[INFO] [1793938888.230303638] [voice_input]: AUDIO: Sau lọc -33.2 dBFS, clipping 0.0%
+[INFO] [1793938890.326870732] [voice_input]: AUDIO: Sau lọc -35.6 dBFS, clipping 0.0%
+[INFO] [1793938892.326994584] [voice_input]: AUDIO: Sau lọc -35.8 dBFS, clipping 0.0%
+[INFO] [1793938894.426677573] [voice_input]: AUDIO: Sau lọc -40.7 dBFS, clipping 0.0%
+[INFO] [1793938896.426606436] [voice_input]: AUDIO: Sau lọc -40.5 dBFS, clipping 0.0%
+[INFO] [1793938898.526570511] [voice_input]: AUDIO: Sau lọc -34.0 dBFS, clipping 0.0%
+[INFO] [1793938900.526433145] [voice_input]: AUDIO: Sau lọc -35.4 dBFS, clipping 0.0%
+[INFO] [1793938902.626568360] [voice_input]: AUDIO: Sau lọc -37.2 dBFS, clipping 0.0%
+[INFO] [1793938904.626600872] [voice_input]: AUDIO: Sau lọc -36.1 dBFS, clipping 0.0%
+[INFO] [1793938906.626642014] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793938908.726699661] [voice_input]: AUDIO: Sau lọc -38.0 dBFS, clipping 0.0%
+[INFO] [1793938910.727884087] [voice_input]: AUDIO: Sau lọc -38.4 dBFS, clipping 0.0%
+[INFO] [1793938912.826605916] [voice_input]: AUDIO: Sau lọc -37.2 dBFS, clipping 0.0%
+[INFO] [1793938914.826732916] [voice_input]: AUDIO: Sau lọc -36.1 dBFS, clipping 0.0%
+[INFO] [1793938916.926525757] [voice_input]: AUDIO: Sau lọc -35.2 dBFS, clipping 0.0%
+[INFO] [1793938918.929463969] [voice_input]: AUDIO: Sau lọc -34.7 dBFS, clipping 0.0%
+[INFO] [1793938921.026502257] [voice_input]: AUDIO: Sau lọc -35.8 dBFS, clipping 0.0%
+[INFO] [1793938923.026762086] [voice_input]: AUDIO: Sau lọc -34.9 dBFS, clipping 0.0%
+[INFO] [1793938925.127033754] [voice_input]: AUDIO: Sau lọc -34.8 dBFS, clipping 0.0%
+[INFO] [1793938927.126683520] [voice_input]: AUDIO: Sau lọc -35.6 dBFS, clipping 0.0%
+[INFO] [1793938929.226651809] [voice_input]: AUDIO: Sau lọc -35.5 dBFS, clipping 0.0%
+[INFO] [1793938931.227581111] [voice_input]: AUDIO: Sau lọc -36.3 dBFS, clipping 0.0%
+[INFO] [1793938933.326433547] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938935.326639577] [voice_input]: AUDIO: Sau lọc -36.2 dBFS, clipping 0.0%
+[INFO] [1793938937.427370045] [voice_input]: AUDIO: Sau lọc -36.2 dBFS, clipping 0.0%
+[INFO] [1793938939.426662057] [voice_input]: AUDIO: Sau lọc -35.9 dBFS, clipping 0.0%
+[INFO] [1793938941.526404483] [voice_input]: AUDIO: Sau lọc -37.0 dBFS, clipping 0.0%
+[INFO] [1793938943.526424318] [voice_input]: AUDIO: Sau lọc -35.7 dBFS, clipping 0.0%
+[INFO] [1793938945.626349616] [voice_input]: AUDIO: Sau lọc -36.4 dBFS, clipping 0.0%
+[INFO] [1793938947.626342252] [voice_input]: AUDIO: Sau lọc -36.6 dBFS, clipping 0.0%
+[INFO] [1793938949.726991305] [voice_input]: AUDIO: Sau lọc -36.9 dBFS, clipping 0.0%
+[INFO] [1793938951.726764359] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938953.726768597] [voice_input]: AUDIO: Sau lọc -36.2 dBFS, clipping 0.0%
+[INFO] [1793938955.826477653] [voice_input]: AUDIO: Sau lọc -37.0 dBFS, clipping 0.0%
+[INFO] [1793938957.826701670] [voice_input]: AUDIO: Sau lọc -36.9 dBFS, clipping 0.0%
+[INFO] [1793938959.926776192] [voice_input]: AUDIO: Sau lọc -37.0 dBFS, clipping 0.0%
+[INFO] [1793938961.926656897] [voice_input]: AUDIO: Sau lọc -36.4 dBFS, clipping 0.0%
+[INFO] [1793938964.026600172] [voice_input]: AUDIO: Sau lọc -36.4 dBFS, clipping 0.0%
+[INFO] [1793938966.026367930] [voice_input]: AUDIO: Sau lọc -37.2 dBFS, clipping 0.0%
+[INFO] [1793938968.126696115] [voice_input]: AUDIO: Sau lọc -36.7 dBFS, clipping 0.0%
+[INFO] [1793938970.126608172] [voice_input]: AUDIO: Sau lọc -36.6 dBFS, clipping 0.0%
+[INFO] [1793938972.226755979] [voice_input]: AUDIO: Sau lọc -34.9 dBFS, clipping 0.0%
+[INFO] [1793938974.226780551] [voice_input]: AUDIO: Sau lọc -35.7 dBFS, clipping 0.0%
+[INFO] [1793938976.326586484] [voice_input]: AUDIO: Sau lọc -36.1 dBFS, clipping 0.0%
+[INFO] [1793938978.327140095] [voice_input]: AUDIO: Sau lọc -35.8 dBFS, clipping 0.0%
+[INFO] [1793938980.426827574] [voice_input]: AUDIO: Sau lọc -35.0 dBFS, clipping 0.0%
+[INFO] [1793938982.426662537] [voice_input]: AUDIO: Sau lọc -36.5 dBFS, clipping 0.0%
+[INFO] [1793938984.526631150] [voice_input]: AUDIO: Sau lọc -36.7 dBFS, clipping 0.0%
+[INFO] [1793938986.526312505] [voice_input]: AUDIO: Sau lọc -36.0 dBFS, clipping 0.0%
+[INFO] [1793938988.626381505] [voice_input]: AUDIO: Sau lọc -35.5 dBFS, clipping 0.0%
+[INFO] [1793938990.626599451] [voice_input]: AUDIO: Sau lọc -37.1 dBFS, clipping 0.0%
+[INFO] [1793938992.726701922] [voice_input]: AUDIO: Sau lọc -35.5 dBFS, clipping 0.0%
+[INFO] [1793938994.726483051] [voice_input]: AUDIO: Sau lọc -36.3 dBFS, clipping 0.0%
+[INFO] [1793938996.826604117] [voice_input]: AUDIO: Sau lọc -35.5 dBFS, clipping 0.0%
+[INFO] [1793938998.826669314] [voice_input]: AUDIO: Sau lọc -36.4 dBFS, clipping 0.0%
+[INFO] [1793939000.926422050] [voice_input]: AUDIO: Sau lọc -35.9 dBFS, clipping 0.0%
+[INFO] [1793939002.926598527] [voice_input]: AUDIO: Sau lọc -35.2 dBFS, clipping 0.0%
+[INFO] [1793939004.926523055] [voice_input]: AUDIO: Sau lọc -34.9 dBFS, clipping 0.0%
+[INFO] [1793939007.026744221] [voice_input]: AUDIO: Sau lọc -32.2 dBFS, clipping 0.0%
+[INFO] [1793939009.026460853] [voice_input]: AUDIO: Sau lọc -36.8 dBFS, clipping 0.0%
+[INFO] [1793939011.126454767] [voice_input]: AUDIO: Sau lọc -36.8 dBFS, clipping 0.0%
+[INFO] [1793939013.126735482] [voice_input]: AUDIO: Sau lọc -34.6 dBFS, clipping 0.0%
+[INFO] [1793939015.226375854] [voice_input]: AUDIO: Sau lọc -37.1 dBFS, clipping 0.0%
+[INFO] [1793939017.226690186] [voice_input]: AUDIO: Sau lọc -36.7 dBFS, clipping 0.0%
+[INFO] [1793939019.326801269] [voice_input]: AUDIO: Sau lọc -37.0 dBFS, clipping 0.0%
+[INFO] [1793939021.326686212] [voice_input]: AUDIO: Sau lọc -37.7 dBFS, clipping 0.0%
+[INFO] [1793939023.426656924] [voice_input]: AUDIO: Sau lọc -37.5 dBFS, clipping 0.0%
+[INFO] [1793939025.426645777] [voice_input]: AUDIO: Sau lọc -37.4 dBFS, clipping 0.0%
+[INFO] [1793939027.526391811] [voice_input]: AUDIO: Sau lọc -37.9 dBFS, clipping 0.0%
+[INFO] [1793939029.526582461] [voice_input]: AUDIO: Sau lọc -37.6 dBFS, clipping 0.0%
+[INFO] [1793939031.626661781] [voice_input]: AUDIO: Sau lọc -38.2 dBFS, clipping 0.0%
+[INFO] [1793939033.626465456] [voice_input]: AUDIO: Sau lọc -33.7 dBFS, clipping 0.0%
+[INFO] [1793939035.726897973] [voice_input]: AUDIO: Sau lọc -35.7 dBFS, clipping 0.0%
+[INFO] [1793939037.726536418] [voice_input]: AUDIO: Sau lọc -35.8 dBFS, clipping 0.0%
+[INFO] [1793939039.827153389] [voice_input]: AUDIO: Sau lọc -36.6 dBFS, clipping 0.0%
+[INFO] [1793939041.826324315] [voice_input]: AUDIO: Sau lọc -37.0 dBFS, clipping 0.0%
+[INFO] [1793939043.927299909] [voice_input]: AUDIO: Sau lọc -36.8 dBFS, clipping 0.0%
+[INFO] [1793939045.927459799] [voice_input]: AUDIO: Sau lọc -36.1 dBFS, clipping 0.0%

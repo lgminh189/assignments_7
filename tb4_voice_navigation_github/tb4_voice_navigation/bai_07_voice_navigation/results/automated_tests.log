@@ -1,0 +1,71 @@
+test_cancel (test_core.CommandTests.test_cancel) ... ok
+test_conflicting_alias (test_core.CommandTests.test_conflicting_alias) ... ok
+test_invalid_entire_route (test_core.CommandTests.test_invalid_entire_route) ... ok
+test_routes (test_core.CommandTests.test_routes) ... ok
+test_single_commands (test_core.CommandTests.test_single_commands) ... ok
+test_changed_map_rejected (test_core.MapTests.test_changed_map_rejected) ... ok
+test_delivered_map (test_core.MapTests.test_delivered_map) ... ok
+test_delivered_spoken_names (test_core.MapTests.test_delivered_spoken_names) ... ok
+test_four_connectivity (test_core.MapTests.test_four_connectivity) ... ok
+test_generate_reload_and_safe_goals (test_core.MapTests.test_generate_reload_and_safe_goals) ... ok
+test_invalid_seed_and_clearance (test_core.MapTests.test_invalid_seed_and_clearance) ... ok
+test_partition_cannot_cross_obstacle (test_core.MapTests.test_partition_cannot_cross_obstacle) ... ok
+test_rotated_roundtrip_and_pixel_centers (test_core.MapTests.test_rotated_roundtrip_and_pixel_centers) ... ok
+test_unknown_obstacles_and_negate (test_core.MapTests.test_unknown_obstacles_and_negate) ... ok
+test_a_then_b_only_after_success (test_nav2.Nav2TransportTests.test_a_then_b_only_after_success) ... [INFO] [1793937620.365424195] [voice_navigation]: {"state": "READY", "message": "Đang chờ lệnh; cần Nav2 và AMCL hoạt động"}
+[INFO] [1793937620.372474294] [voice_navigation]: {"state": "ROUTE", "message": "A → B", "command": "Di chuyển từ khu vực A đến khu vực B", "route": ["A", "B"]}
+[INFO] [1793937620.374063354] [voice_navigation]: {"state": "NAVIGATING", "message": "Đi đến Khu vực A", "region": "A"}
+[INFO] [1793937620.530713721] [voice_navigation]: {"state": "ARRIVED", "message": "Đã đến A", "region": "A"}
+[INFO] [1793937620.538268740] [voice_navigation]: {"state": "NAVIGATING", "message": "Đi đến Khu vực B", "region": "B"}
+[INFO] [1793937620.699932020] [voice_navigation]: {"state": "ARRIVED", "message": "Đã đến B", "region": "B"}
+[INFO] [1793937620.701471471] [voice_navigation]: {"state": "SUCCEEDED", "message": "Đã hoàn thành hành trình"}
+[INFO] [1793937620.705703090] [voice_navigation]: {"state": "IDLE", "message": "Không có hành trình đang chạy"}
+ok
+test_busy_and_cancel (test_nav2.Nav2TransportTests.test_busy_and_cancel) ... [WARN] [1793937620.711952670] [rcl.logging_rosout]: Publisher already registered for node name: 'voice_navigation'. If this is due to multiple nodes with the same name then all logs for the logger named 'voice_navigation' will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[INFO] [1793937620.734258353] [voice_navigation]: {"state": "READY", "message": "Đang chờ lệnh; cần Nav2 và AMCL hoạt động"}
+[INFO] [1793937620.738067166] [voice_navigation]: {"state": "ROUTE", "message": "A → B", "command": "Đi từ A đến B", "route": ["A", "B"]}
+[INFO] [1793937620.742070039] [voice_navigation]: {"state": "NAVIGATING", "message": "Đi đến Khu vực A", "region": "A"}
+[INFO] [1793937620.749074248] [voice_navigation]: {"state": "BUSY", "message": "Đang chạy; hãy dừng/hủy và chờ kết quả trước khi gửi lệnh mới"}
+[INFO] [1793937620.758647657] [voice_navigation]: {"state": "CANCELING", "message": "Người dùng hủy lệnh"}
+[INFO] [1793937620.769619057] [voice_navigation]: {"state": "STOPPED", "message": "Hành trình đã kết thúc sau yêu cầu hủy"}
+[INFO] [1793937620.778989339] [voice_navigation]: {"state": "IDLE", "message": "Không có hành trình đang chạy"}
+ok
+test_failure_prevents_second_goal (test_nav2.Nav2TransportTests.test_failure_prevents_second_goal) ... [WARN] [1793937620.794050627] [rcl.logging_rosout]: Publisher already registered for node name: 'voice_navigation'. If this is due to multiple nodes with the same name then all logs for the logger named 'voice_navigation' will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[INFO] [1793937620.822279736] [voice_navigation]: {"state": "READY", "message": "Đang chờ lệnh; cần Nav2 và AMCL hoạt động"}
+[INFO] [1793937620.826716771] [voice_navigation]: {"state": "ROUTE", "message": "A → B", "command": "Đi từ A đến B", "route": ["A", "B"]}
+[INFO] [1793937620.828907926] [voice_navigation]: {"state": "NAVIGATING", "message": "Đi đến Khu vực A", "region": "A"}
+[INFO] [1793937620.989039603] [voice_navigation]: {"state": "FAILED", "message": "Nav2 thất bại; không gửi các đích còn lại", "action_status": 6, "error_code": 1}
+[INFO] [1793937620.998162653] [voice_navigation]: {"state": "IDLE", "message": "Không có hành trình đang chạy"}
+ok
+test_rejected_goal_stops_route (test_nav2.Nav2TransportTests.test_rejected_goal_stops_route) ... [WARN] [1793937621.008320238] [rcl.logging_rosout]: Publisher already registered for node name: 'voice_navigation'. If this is due to multiple nodes with the same name then all logs for the logger named 'voice_navigation' will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[INFO] [1793937621.026141867] [voice_navigation]: {"state": "READY", "message": "Đang chờ lệnh; cần Nav2 và AMCL hoạt động"}
+[INFO] [1793937621.029592197] [voice_navigation]: {"state": "ROUTE", "message": "A → B", "command": "Đi từ A đến B", "route": ["A", "B"]}
+[INFO] [1793937621.033331565] [voice_navigation]: {"state": "NAVIGATING", "message": "Đi đến Khu vực A", "region": "A"}
+[INFO] [1793937621.049665717] [voice_navigation]: {"state": "REJECTED", "message": "Nav2 từ chối đích; dừng toàn bộ hành trình"}
+[INFO] [1793937621.050466888] [voice_navigation]: {"state": "IDLE", "message": "Không có hành trình đang chạy"}
+ok
+test_timeout_cancels_without_next_goal (test_nav2.Nav2TransportTests.test_timeout_cancels_without_next_goal) ... [WARN] [1793937621.075607402] [rcl.logging_rosout]: Publisher already registered for node name: 'voice_navigation'. If this is due to multiple nodes with the same name then all logs for the logger named 'voice_navigation' will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[INFO] [1793937621.106157739] [voice_navigation]: {"state": "READY", "message": "Đang chờ lệnh; cần Nav2 và AMCL hoạt động"}
+[INFO] [1793937621.110546620] [voice_navigation]: {"state": "ROUTE", "message": "A → B", "command": "Đi từ A đến B", "route": ["A", "B"]}
+[INFO] [1793937621.111808651] [voice_navigation]: {"state": "NAVIGATING", "message": "Đi đến Khu vực A", "region": "A"}
+[INFO] [1793937621.422376933] [voice_navigation]: {"state": "CANCELING", "message": "Hết thời gian cho đích; hủy toàn bộ hành trình"}
+[INFO] [1793937621.435826540] [voice_navigation]: {"state": "STOPPED", "message": "Hành trình đã kết thúc sau yêu cầu hủy"}
+[INFO] [1793937621.444383334] [voice_navigation]: {"state": "IDLE", "message": "Không có hành trình đang chạy"}
+ok
+test_unknown_region_sends_nothing (test_nav2.Nav2TransportTests.test_unknown_region_sends_nothing) ... [WARN] [1793937621.455641404] [rcl.logging_rosout]: Publisher already registered for node name: 'voice_navigation'. If this is due to multiple nodes with the same name then all logs for the logger named 'voice_navigation' will go out over the existing publisher. As soon as any node with that name is destructed it will unregister the publisher, preventing any further logs for that name from being published on the rosout topic.
+[INFO] [1793937621.475268613] [voice_navigation]: {"state": "READY", "message": "Đang chờ lệnh; cần Nav2 và AMCL hoạt động"}
+[INFO] [1793937621.478807581] [voice_navigation]: {"state": "INVALID_COMMAND", "message": "Khu vực không tồn tại hoặc tên chưa rõ: vung khong ton tai"}
+[INFO] [1793937621.488525681] [voice_navigation]: {"state": "IDLE", "message": "Không có hành trình đang chạy"}
+ok
+test_audio_level_silence_and_clipping (test_speech.SpeechTests.test_audio_level_silence_and_clipping) ... ok
+test_audio_odd_read_is_tolerated (test_speech.SpeechTests.test_audio_odd_read_is_tolerated) ... ok
+test_filter_chunk_state_and_bypass (test_speech.SpeechTests.test_filter_chunk_state_and_bypass) ... ok
+test_filter_invalid_cutoff (test_speech.SpeechTests.test_filter_invalid_cutoff) ... ok
+test_filter_rejects_rumble_preserves_speech_band (test_speech.SpeechTests.test_filter_rejects_rumble_preserves_speech_band) ... ok
+test_grammar_keeps_unknown_destination_and_stop (test_speech.SpeechTests.test_grammar_keeps_unknown_destination_and_stop) ... ok
+test_result_requires_word_confidences (test_speech.SpeechTests.test_result_requires_word_confidences) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 1.837s
+
+OK

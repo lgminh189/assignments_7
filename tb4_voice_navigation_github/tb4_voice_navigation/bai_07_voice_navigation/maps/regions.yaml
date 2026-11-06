@@ -1,0 +1,63 @@
+frame_id: map
+map_yaml: original.yaml
+map_sha256: 56f7f2b6be0b1775bd3ae352b515e58bba0e04502c773fe741a1dc7302a989e3
+clearance_m: 0.35
+method: geodesic_voronoi_on_largest_clearance_component
+regions:
+- id: A
+  name: Khu vực A
+  aliases:
+  - vùng A
+  - phòng học
+  - khu vực một
+  - vùng một
+  pixel:
+  - 238
+  - 410
+  goal:
+    x: -3.1579999999999995
+    y: 3.1610000000000014
+    yaw: 0.0
+  area_m2: 595.6725000000001
+- id: B
+  name: Khu vực B
+  aliases:
+  - vùng B
+  - bê
+  - khu vực bê
+  - phòng bê
+  - vùng bê
+  - phòng thí nghiệm
+  - khu vực hai
+  - vùng hai
+  pixel:
+  - 521
+  - 686
+  goal:
+    x: 10.992000000000003
+    y: -10.639
+    yaw: 0.0
+  area_m2: 169.78500000000003
+- id: C
+  name: Khu vực C
+  aliases:
+  - vùng C
+  - xê
+  - khu vực xê
+  - phòng xê
+  - vùng xê
+  - cê
+  - khu vực cê
+  - phòng cê
+  - vùng cê
+  - hành lang
+  - khu vực ba
+  - vùng ba
+  pixel:
+  - 190
+  - 889
+  goal:
+    x: -5.558
+    y: -20.789
+    yaw: 0.0
+  area_m2: 138.43250000000003

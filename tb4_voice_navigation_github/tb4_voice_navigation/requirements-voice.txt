@@ -1,0 +1,3 @@
+# Optional Python dependency for Vietnamese voice input.
+# ROS/OpenCV/SciPy/PyYAML use Ubuntu packages; see README.
+vosk==0.3.45

@@ -1,0 +1,27 @@
+[INFO] [1793935807.413757165] [voice_navigation]: {"state": "READY", "message": "Đang chờ lệnh; cần Nav2 và AMCL hoạt động"}
+[INFO] [1793935814.109442699] [voice_navigation]: {"state": "ROUTE", "message": "A", "command": "Đi đến khu vực A", "route": ["A"]}
+[INFO] [1793935814.110011474] [voice_navigation]: {"state": "NAVIGATING", "message": "Đi đến Khu vực A", "region": "A"}
+[INFO] [1793935814.115084015] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 0.00 m", "region": "A"}
+[INFO] [1793935816.125495422] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 4.21 m", "region": "A"}
+[INFO] [1793935818.132378191] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 4.01 m", "region": "A"}
+[INFO] [1793935820.133195361] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 3.76 m", "region": "A"}
+[INFO] [1793935822.132716723] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 3.53 m", "region": "A"}
+[INFO] [1793935824.143590990] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 3.33 m", "region": "A"}
+[INFO] [1793935826.152325186] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 3.11 m", "region": "A"}
+[INFO] [1793935828.152952483] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 2.88 m", "region": "A"}
+[INFO] [1793935830.162482738] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 2.66 m", "region": "A"}
+[INFO] [1793935832.162798516] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 2.43 m", "region": "A"}
+[INFO] [1793935834.172457307] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 2.21 m", "region": "A"}
+[INFO] [1793935836.172501611] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 1.96 m", "region": "A"}
+[INFO] [1793935837.392137117] [voice_navigation]: {"state": "INVALID_COMMAND", "message": "Khu vực không tồn tại hoặc tên chưa rõ: khu vuc d"}
+[INFO] [1793935838.182437763] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 1.76 m", "region": "A"}
+[INFO] [1793935840.182690054] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 1.56 m", "region": "A"}
+[INFO] [1793935842.183898591] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 1.31 m", "region": "A"}
+[INFO] [1793935844.192977776] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 1.06 m", "region": "A"}
+[INFO] [1793935846.193750480] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 0.83 m", "region": "A"}
+[INFO] [1793935848.202080946] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 0.64 m", "region": "A"}
+[INFO] [1793935850.202101923] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 0.38 m", "region": "A"}
+[INFO] [1793935852.202593204] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 0.27 m", "region": "A"}
+[INFO] [1793935854.212570371] [voice_navigation]: {"state": "FEEDBACK", "message": "Còn 0.21 m", "region": "A"}
+[INFO] [1793935855.062023381] [voice_navigation]: {"state": "ARRIVED", "message": "Đã đến A", "region": "A"}
+[INFO] [1793935855.062267273] [voice_navigation]: {"state": "SUCCEEDED", "message": "Đã hoàn thành hành trình"}

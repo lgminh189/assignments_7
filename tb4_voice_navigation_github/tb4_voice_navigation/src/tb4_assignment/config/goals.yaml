@@ -1,0 +1,13 @@
+# Warehouse goals selected from final_map and verified by a Gazebo/Nav2 run.
+# x/y: metres; yaw: radians; do not reuse in a different world/map.
+frame_id: map
+goals:
+- x: -5.0
+  y: 1.0
+  yaw: 1.5708
+- x: -5.0
+  y: 6.0
+  yaw: 0.0
+- x: 3.0
+  y: 6.0
+  yaw: 0.0
